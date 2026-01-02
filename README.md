@@ -1,15 +1,15 @@
 💫 About Me:
-I,m a junior software engineer
+Junior software engineer
 Coding is my passion
 I love Linux
-Spanish
+
 
 
 🌐 Socials:
 LinkedIn
 
 💻 Tech Stack:
-Java Python Bash Script Windows Terminal MicrosoftSQLServer MySQL
+Java Python Bash Script Windows Terminal MicrosoftSQLServer sqldeveloper
 
 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username= DanielBernadPenuelas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
